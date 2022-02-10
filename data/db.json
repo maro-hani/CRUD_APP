@@ -1,0 +1,63 @@
+{
+  "books": [
+    {
+      "title": "learn php",
+      "price": "640",
+      "description": "learn php from scartch",
+      "id": 3
+    },
+    {
+      "title": "learn laravel",
+      "price": "500",
+      "description": "learn laravale from scratch",
+      "id": 6
+    },
+    {
+      "title": "learn c++",
+      "price": "4000",
+      "description": "learn laravel from scratsh",
+      "id": 7
+    },
+    {
+      "title": "learn c#",
+      "price": "5000",
+      "description": "learn c# from scratch",
+      "id": 8
+    }
+  ],
+  "systemLogs": [
+    {
+      "name": "insertBook",
+      "status": "succes",
+      "book": {
+        "title": "learn c++",
+        "price": "2000",
+        "description": "learn c++ from scratsh"
+      },
+      "date": "2022-1-26 21:30:48",
+      "id": 1
+    },
+    {
+      "name": "insertBook",
+      "status": "succes",
+      "book": {
+        "title": "c#",
+        "price": "5000",
+        "description": "learn c# from scratch"
+      },
+      "date": "2022-2-1 20:4:41",
+      "id": 2
+    },
+    {
+      "name": "insertBook",
+      "status": "succes",
+      "book": {
+        "title": "",
+        "price": "",
+        "description": ""
+      },
+      "date": "2022-2-2 1:43:58",
+      "id": 3
+    }
+  ]
+}
